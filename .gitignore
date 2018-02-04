@@ -2,3 +2,4 @@
 04-convolutional-neural-networks/week2/ResNet/ResNet50.h5
 04-convolutional-neural-networks/week4/Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
 04-convolutional-neural-networks/week3/model_data/yolo.h5
+05-sequence-models/week2/Word Vector Representation/data/glove.6B.50d.txt
