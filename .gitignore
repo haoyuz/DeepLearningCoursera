@@ -3,3 +3,5 @@
 04-convolutional-neural-networks/week4/Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
 04-convolutional-neural-networks/week3/model_data/yolo.h5
 05-sequence-models/week2/Word Vector Representation/data/glove.6B.50d.txt
+05-sequence-models/week3/Trigger Word Detection/XY_dev/X_dev.npy
+05-sequence-models/week3/Trigger Word Detection/XY_train/X.npy
